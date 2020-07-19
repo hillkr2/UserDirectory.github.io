@@ -1,13 +1,12 @@
 import React from 'react';
-import './App.css';
-import Directory from './components/Directory';
+import Container from "./components/Container"
+
 
 function App() {
   return (
-    <div>
-        <Directory />
-    </div>
-  );
+    <Container />
+
+  )
 }
 
 export default App;
