@@ -7,7 +7,7 @@ export default () => (
 
     <MDBNav>
 
-        <h1>gary and sons</h1>
+        <h1>User Directory</h1>
 
     </MDBNav>
 
