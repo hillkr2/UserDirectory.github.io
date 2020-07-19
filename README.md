@@ -12,4 +12,6 @@ Material Design for Bootstrap
 Application:
 You can view the functioning application running on Heroku.
 
-The data used for this assignment was created usin
+https://directory804.herokuapp.com/
+
+The data used for this assignment was created usin 
